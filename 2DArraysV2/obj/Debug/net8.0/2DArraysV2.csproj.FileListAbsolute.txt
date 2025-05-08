@@ -1,0 +1,15 @@
+C:\Users\aleks\source\repos\ArraysTest\2DArraysV2\bin\Debug\net8.0\2DArraysV2.exe
+C:\Users\aleks\source\repos\ArraysTest\2DArraysV2\bin\Debug\net8.0\2DArraysV2.deps.json
+C:\Users\aleks\source\repos\ArraysTest\2DArraysV2\bin\Debug\net8.0\2DArraysV2.runtimeconfig.json
+C:\Users\aleks\source\repos\ArraysTest\2DArraysV2\bin\Debug\net8.0\2DArraysV2.dll
+C:\Users\aleks\source\repos\ArraysTest\2DArraysV2\bin\Debug\net8.0\2DArraysV2.pdb
+C:\Users\aleks\source\repos\ArraysTest\2DArraysV2\obj\Debug\net8.0\2DArraysV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\ArraysTest\2DArraysV2\obj\Debug\net8.0\2DArraysV2.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\ArraysTest\2DArraysV2\obj\Debug\net8.0\2DArraysV2.AssemblyInfo.cs
+C:\Users\aleks\source\repos\ArraysTest\2DArraysV2\obj\Debug\net8.0\2DArraysV2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\ArraysTest\2DArraysV2\obj\Debug\net8.0\2DArraysV2.sourcelink.json
+C:\Users\aleks\source\repos\ArraysTest\2DArraysV2\obj\Debug\net8.0\2DArraysV2.dll
+C:\Users\aleks\source\repos\ArraysTest\2DArraysV2\obj\Debug\net8.0\refint\2DArraysV2.dll
+C:\Users\aleks\source\repos\ArraysTest\2DArraysV2\obj\Debug\net8.0\2DArraysV2.pdb
+C:\Users\aleks\source\repos\ArraysTest\2DArraysV2\obj\Debug\net8.0\2DArraysV2.genruntimeconfig.cache
+C:\Users\aleks\source\repos\ArraysTest\2DArraysV2\obj\Debug\net8.0\ref\2DArraysV2.dll
