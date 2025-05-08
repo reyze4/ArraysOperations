@@ -1,0 +1,7 @@
+C:\Users\aleks\source\repos\ArraysTest\ArraysV2\bin\Debug\ArraysV2.exe.config
+C:\Users\aleks\source\repos\ArraysTest\ArraysV2\bin\Debug\ArraysV2.exe
+C:\Users\aleks\source\repos\ArraysTest\ArraysV2\bin\Debug\ArraysV2.pdb
+C:\Users\aleks\source\repos\ArraysTest\ArraysV2\obj\Debug\ArraysV2.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\ArraysTest\ArraysV2\obj\Debug\ArraysV2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\ArraysTest\ArraysV2\obj\Debug\ArraysV2.exe
+C:\Users\aleks\source\repos\ArraysTest\ArraysV2\obj\Debug\ArraysV2.pdb

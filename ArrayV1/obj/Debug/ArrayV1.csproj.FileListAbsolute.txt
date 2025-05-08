@@ -1,0 +1,7 @@
+C:\Users\aleks\source\repos\ArraysTest\ArrayV1\bin\Debug\ArrayV1.exe.config
+C:\Users\aleks\source\repos\ArraysTest\ArrayV1\bin\Debug\ArrayV1.exe
+C:\Users\aleks\source\repos\ArraysTest\ArrayV1\bin\Debug\ArrayV1.pdb
+C:\Users\aleks\source\repos\ArraysTest\ArrayV1\obj\Debug\ArrayV1.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\ArraysTest\ArrayV1\obj\Debug\ArrayV1.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\ArraysTest\ArrayV1\obj\Debug\ArrayV1.exe
+C:\Users\aleks\source\repos\ArraysTest\ArrayV1\obj\Debug\ArrayV1.pdb
